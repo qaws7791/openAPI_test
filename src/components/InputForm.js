@@ -130,6 +130,6 @@ const setdata = (start,end,genre) =>{
                  'shcate=' + genre
                  ;
 
-    var result = 'http://www.kopis.or.kr/openApi/restful/pblprfr?service=06a11aff5c1a4a0fb3b8856fe545e031&rows=10&cpage=1&'+ formData
+    var result = 'https://www.kopis.or.kr/openApi/restful/pblprfr?service=06a11aff5c1a4a0fb3b8856fe545e031&rows=10&cpage=1&'+ formData
     return result
 }
