@@ -1,0 +1,23 @@
+
+a:link { color: #888888; text-decoration: none;}
+a:visited { color: #888888; text-decoration: none;}
+a:hover { color: #888888; text-decoration: underline;}
+
+.name {
+    color: #333333;
+    font-size: 14px;
+}
+
+.period {
+    color: #666666;
+}
+
+.place {
+    color: #888888;
+}
+
+.card {
+    margin: 20px 20px;
+    width: 300px;
+    height: 500px;
+}
